@@ -69,7 +69,7 @@ Página dedicada a los Indicadores Clave de Desempeño, proporcionando métricas
 
 - Las comunas con menos accidentes fatales son la 5 y 6, mientras que la comuna con menos accidentes no fatales es la 2.
 
-- Las comunas más peligrosas para los peatones son la 1, 9, 13, 14, 2 y 5.
+- Las comunas más peligrosas para los peatones son la 1, 4, 15, 3, 14 y 7.
 
 - Los accidentes fatales se redujeron significativamente en el año 2020, posiblemente debido al confinamiento por la pandemia. De todos modos, se observa una tendencia bajista desde el año 2016.
 
@@ -77,11 +77,7 @@ Página dedicada a los Indicadores Clave de Desempeño, proporcionando métricas
 
 - El mes con mayor cantidad de accidentes no fatales ocurre en diciembre, y el mes con menos accidentes no fatales es mayo.
 
-- Ocurren más accidentes no fatales los días sábado y domingo.
-
-- La mayoría de los accidentes no fatales que ocurren los fines de semana se dan en un horario de entre las 0 y las 5 horas del día.
-
-- De todos los accidentes ocurridos el 5% es fatal, es decir, 1 de cada 20 accidentes resulta en al menos una muerte.
+- Ocurren más accidentes no fatales los días viernes, jueves y martes.
 
 - Hay más víctimas del género masculino que del género femenino.
 
